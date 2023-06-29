@@ -1,6 +1,13 @@
-MIT License
+# University of Florida, ECE Masters
 
-Copyright (c) 2002 Mars U
+This is from a long time ago ... not sure I saved the final version, but I thought I would post it here.
+
+- updated for newer C and C++ compilers
+- I don't have any original data
+
+# MIT License
+
+**Copyright (c) 2002 Mars U**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
